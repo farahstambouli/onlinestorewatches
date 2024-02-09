@@ -1,0 +1,29 @@
+
+.navbar-text{
+    color:black;
+}
+.navbar-brand{
+    color:black
+}
+.nav-link {
+    color: black;
+}
+.mb-3{
+    color: darkgray;
+}
+.container{
+    display:inline-block;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+ }
+ .socialmedia{
+    height:"90px";
+    width:"90px";
+    display:inline-block;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+ }
+
+ 
